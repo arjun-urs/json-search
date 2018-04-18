@@ -1,0 +1,12 @@
+welcome_message: "Welcome to Zendesk!\nType 'quit' to exit at any time, Press 'Enter' to continue\n"
+command_message: |
+  Select search options:
+    * Press 1 to search
+    * Press 2 to view a list of searchable fields
+    * Type 'quit' to exit
+options: "Select 1) Users or 2) Tickets or 3) Organizations\n"
+search_term: "Enter search term\n"
+search_value: "Enter search value\n"
+no_result_found: " - No results found - \n\n"
+exit_message: "Ok, see you\n"
+invalid_input: "Invalid entry. Ok, see you"
